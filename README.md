@@ -4,6 +4,13 @@
 
 A continuación, se detallan los pasos necesarios para instalar y configurar el sistema PHP Inventory en su servidor local o remoto.
 
+## Video Explicativo
+
+Hemos preparado un video explicativo que muestra la funcionalidad del sistema PHP Inventory. Puedes ver el video haciendo clic en el enlace a continuación:
+
+[Ver Video Explicativo](https://youtu.be/7fSChXqiCNs)
+
+
 ## Requisitos previos
 
 Antes de comenzar con la instalación, asegúrese de que su servidor cumpla con los siguientes requisitos:
